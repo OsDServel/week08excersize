@@ -1,0 +1,14 @@
+.one  {
+	color: forestgreen;
+	background-color: black;
+	text-align: center;
+}
+
+.two {
+	width: 300px;
+	height: 300px;
+}
+
+#three {
+	background-color: orange;
+}
