@@ -1,14 +1,28 @@
 .one  {
-	color: forestgreen;
 	background-color: black;
-	text-align: center;
 }
 
 .two {
-	width: 300px;
-	height: 300px;
+	width: 200px;
+	height: 200px;
 }
 
-#three {
+#idUno {
 	background-color: orange;
+	width: 200px;
+	height: 200px;
+	border: 5px pink;
+}
+
+#idDos {
+	background-color: skyblue;
+	width: 200px;
+	height: 200px;
+}
+
+
+
+
+.two, #idUno, #idDos {
+	display: inline-block;
 }
